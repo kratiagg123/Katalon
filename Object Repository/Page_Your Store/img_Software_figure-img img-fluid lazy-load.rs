@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Software_figure-img img-fluid lazy-load</name>
+   <tag></tag>
+   <elementGuidId>f5476065-c139-4972-9fe2-1ca76748762c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='swiper-wrapper-f2b062bb5bcab10e4']/div[6]/a/figure/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1e31f079-e7e4-45fe-9eac-4f3843d40df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>figure-img img-fluid lazy-load</value>
+      <webElementGuid>62982605-208f-4bc7-af5f-b424962e1aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/category/3-150x150.webp</value>
+      <webElementGuid>365d6959-ca09-41bd-b70e-70b612779fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>f7c8db32-57ea-4002-b898-e31417958598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>04632395-a092-4d09-be09-4d01b69e3a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Phones &amp; PDAs</value>
+      <webElementGuid>a336d470-1334-448d-b900-876a8bba6064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swiper-wrapper-f2b062bb5bcab10e4&quot;)/div[@class=&quot;swiper-slide&quot;]/a[1]/figure[@class=&quot;figure img-top&quot;]/div[@class=&quot;figure-img-wrapper&quot;]/img[@class=&quot;figure-img img-fluid lazy-load&quot;]</value>
+      <webElementGuid>1e122370-a9f8-4791-baf3-f55611335cd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='swiper-wrapper-f2b062bb5bcab10e4']/div[6]/a/figure/div/img</value>
+      <webElementGuid>9bcfb48f-e8d0-4753-b8fb-3d2db0041174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Phones &amp; PDAs']</value>
+      <webElementGuid>7a0f882d-7c78-4ef8-995a-18d615f4c839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/figure/div/img</value>
+      <webElementGuid>5bad3d43-048c-4861-aca8-8a8c8e2a238e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/category/3-150x150.webp' and @alt = 'Phones &amp; PDAs']</value>
+      <webElementGuid>4af793fc-208d-4bdf-9655-3675df4634ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

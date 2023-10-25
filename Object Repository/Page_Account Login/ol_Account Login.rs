@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ol_Account Login</name>
+   <tag></tag>
+   <elementGuidId>ef7c2c35-8736-44ad-9c7c-98a1eb20b9db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-login']/nav/ol</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.breadcrumb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ol</value>
+      <webElementGuid>bcf129ce-648a-4afc-bb07-e37f47d5e75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>breadcrumb</value>
+      <webElementGuid>0a202565-f5b2-4256-ba2e-6a37d48a6059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Account Login </value>
+      <webElementGuid>746e27ba-f7e6-4d84-81d5-fa24d0aeec51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-login&quot;)/nav[1]/ol[@class=&quot;breadcrumb&quot;]</value>
+      <webElementGuid>41d5cd74-d896-4b63-9f73-5c363822bb58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-login']/nav/ol</value>
+      <webElementGuid>c8f39fc7-98e8-4fc6-85b0-1cde27488932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAVE60'])[1]/following::ol[1]</value>
+      <webElementGuid>01a5a0ce-5059-4394-a77a-1e2f3576edaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upto 60% Off'])[1]/following::ol[1]</value>
+      <webElementGuid>26309bb1-5237-48ca-b077-77d3bcaa2d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol</value>
+      <webElementGuid>964c75e1-9ad0-44e8-8d3e-3de856555cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ol[(text() = '  Account Login ' or . = '  Account Login ')]</value>
+      <webElementGuid>95b49919-a161-4af3-8045-072462dbdd0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

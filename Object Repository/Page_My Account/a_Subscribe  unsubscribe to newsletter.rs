@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Subscribe  unsubscribe to newsletter</name>
+   <tag></tag>
+   <elementGuidId>3b4fb3f6-375e-4fe9-8baa-0687b775f616</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>25fe8519-3dc4-4191-8984-eef107ba59cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-flex text-decoration-none text-reset flex-column my-3</value>
+      <webElementGuid>ebbde4c6-07cd-4ed0-ba5f-a4604dc7f477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/newsletter</value>
+      <webElementGuid>9b624c94-7807-4427-a776-fd93b4dff638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Subscribe / unsubscribe to newsletter</value>
+      <webElementGuid>7f99e4ae-4e0e-46d9-a79c-ddc29637f55f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-4 col-lg-2_4&quot;]/a[@class=&quot;d-inline-flex text-decoration-none text-reset flex-column my-3&quot;]</value>
+      <webElementGuid>6029a398-5da2-4314-bf16-a89d47083446</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[5]/a</value>
+      <webElementGuid>28f77f40-fe64-48be-8b72-2d8f2c84cca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Subscribe / unsubscribe to newsletter')]</value>
+      <webElementGuid>7fd7174b-1be4-44fa-b2b3-a2777886426e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify your wish list'])[1]/following::a[1]</value>
+      <webElementGuid>49c546c7-246e-4c6b-a6aa-042810043130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify your address book entries'])[1]/following::a[2]</value>
+      <webElementGuid>be0b48b2-fbea-4d38-a787-210f941062f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Orders'])[1]/preceding::a[1]</value>
+      <webElementGuid>50d49056-a34d-48f0-b92e-8ef55bf23bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View your order history'])[1]/preceding::a[1]</value>
+      <webElementGuid>0ffedaab-47ee-489e-b18c-03e81bb43950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subscribe / unsubscribe to newsletter']/parent::*</value>
+      <webElementGuid>6592725b-49b5-44ef-9744-c369c7111819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=account/newsletter')]</value>
+      <webElementGuid>9bee8515-1226-44a9-b067-c6a39cb7adbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[5]/a</value>
+      <webElementGuid>08c4e364-be7f-4f57-800d-44a488e223f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=account/newsletter' and (text() = ' Subscribe / unsubscribe to newsletter' or . = ' Subscribe / unsubscribe to newsletter')]</value>
+      <webElementGuid>79900f79-718b-4c2e-a524-4561c6d7d893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

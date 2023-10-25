@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Customer Register Account By creati_d2cb4b</name>
+   <tag></tag>
+   <elementGuidId>07ce4d99-e817-4266-87ce-a90293a071fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body.p-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb7dfe58-0210-4b41-bcd2-60ebe8990c7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body p-4</value>
+      <webElementGuid>3adbb225-bb2b-4dbd-b013-4485d264d7bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> New Customer Register Account By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made. Continue</value>
+      <webElementGuid>50ebf32d-02b5-40f4-aea1-eaa93030d373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card mb-4&quot;]/div[@class=&quot;card-body p-4&quot;]</value>
+      <webElementGuid>f9cc90a2-fd5d-471c-8672-d9a1878025b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div</value>
+      <webElementGuid>dba0188b-2bde-401c-8c8e-c1214cd442a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::div[6]</value>
+      <webElementGuid>782ff64c-594a-46d6-b850-fe1d8cc3935d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::div[6]</value>
+      <webElementGuid>6ef13f82-7757-4f8e-887d-5896f145a51d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div</value>
+      <webElementGuid>2ed28e6e-13a7-4db4-9481-08e87ea022e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; New Customer Register Account By creating an account you will be able to shop faster, be up to date on an order&quot; , &quot;'&quot; , &quot;s status, and keep track of the orders you have previously made. Continue&quot;) or . = concat(&quot; New Customer Register Account By creating an account you will be able to shop faster, be up to date on an order&quot; , &quot;'&quot; , &quot;s status, and keep track of the orders you have previously made. Continue&quot;))]</value>
+      <webElementGuid>6faef053-8983-4182-b17f-18814368c681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

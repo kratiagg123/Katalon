@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit your account information</name>
+   <tag></tag>
+   <elementGuidId>4b5b9020-8cc5-4b8c-9628-2662fcaf2948</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.d-inline-flex.text-decoration-none.text-reset.flex-column.my-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75362d8f-aa03-4a7b-aefa-eb9b17e12ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-inline-flex text-decoration-none text-reset flex-column my-3</value>
+      <webElementGuid>6e15610f-c8f4-40cf-865a-01acefaa9ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/edit</value>
+      <webElementGuid>dadf09e2-c6f1-4133-8026-4c3a01af7a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit your account information</value>
+      <webElementGuid>189815da-84fd-424f-a14f-6f385b821386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-body text-center&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6 col-sm-4 col-lg-2_4&quot;]/a[@class=&quot;d-inline-flex text-decoration-none text-reset flex-column my-3&quot;]</value>
+      <webElementGuid>4e23c75f-504f-4075-855a-9e33e7d7af43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/a</value>
+      <webElementGuid>fcab61ac-5dfb-4eec-939e-6c9de64216a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit your account information')]</value>
+      <webElementGuid>cec735d1-fe8d-4bf1-a00d-3681bda7fa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::a[1]</value>
+      <webElementGuid>64dd6631-4e04-4a3d-af67-fef7aa424bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/following::a[1]</value>
+      <webElementGuid>60fb3ded-c91a-41bc-b080-4c40722cbdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change your password'])[1]/preceding::a[1]</value>
+      <webElementGuid>925dcd60-44e0-482f-ade0-ea0a253c54c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify your address book entries'])[1]/preceding::a[2]</value>
+      <webElementGuid>ea689624-0e3d-4a27-a026-8d50a5f51833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit your account information']/parent::*</value>
+      <webElementGuid>ffe58c9b-1896-47e3-8725-873621eaa19b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=account/edit')]</value>
+      <webElementGuid>41d28e27-866a-45e1-9846-63ee74ad0a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>aa13ee02-948e-46f8-9cbe-f793af70410f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=account/edit' and (text() = ' Edit your account information' or . = ' Edit your account information')]</value>
+      <webElementGuid>fcadeca9-ece5-45b2-a3ff-cf6da35c6b30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

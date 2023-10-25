@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Wish List (2)</name>
+   <tag></tag>
+   <elementGuidId>9479544b-841a-4dd1-8fdb-97336ba38a2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='notification-box-top']/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ff1330ec-9615-4d27-83db-7ec99133e17f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary btn-block</value>
+      <webElementGuid>e21a93c9-0af5-470e-9234-ee666438ba55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist</value>
+      <webElementGuid>c2b3d0f5-62d1-4bae-8dfd-cb506802ac01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wish List (2) </value>
+      <webElementGuid>5a2b6f19-d98c-4a04-8275-146756a4328f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;notification-box-top&quot;)/div[@class=&quot;toast m-3 fade show&quot;]/div[@class=&quot;toast-body&quot;]/a[@class=&quot;btn btn-secondary btn-block&quot;]</value>
+      <webElementGuid>393ecc0c-686a-4b29-bb21-dc7d27a9bb12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='notification-box-top']/div[2]/div[2]/a</value>
+      <webElementGuid>38b8143d-2b65-48b7-ad85-d8f4f1af0266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Wish List (2)')]</value>
+      <webElementGuid>64a9ad03-3df9-4a94-9257-4f72dffa223b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wish list'])[2]/following::a[1]</value>
+      <webElementGuid>2b5ee2c0-b8bc-4abe-b5cf-faec7e52c5a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPod Touch'])[2]/following::a[2]</value>
+      <webElementGuid>2651b3c3-8159-4299-a950-07cd758631a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist')])[6]</value>
+      <webElementGuid>03675b63-0587-426c-b74e-7f6e55844148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>836864d0-01fc-4f5b-9579-787903dfb0ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ecommerce-playground.lambdatest.io/index.php?route=account/wishlist' and (text() = 'Wish List (2) ' or . = 'Wish List (2) ')]</value>
+      <webElementGuid>ef6223e6-c2b2-49bc-a4f7-dcb3c80df152</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sort By_lazy-load img-thumbnail</name>
+   <tag></tag>
+   <elementGuidId>bbcd9f74-c63d-4f64-8d26-e1899adf2d30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='mz-product-grid-image-28-212408']/ul/li/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.lazy-load.img-thumbnail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6b02ed03-41dd-4132-8100-ab54060b1966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy-load img-thumbnail</value>
+      <webElementGuid>a50ea701-2e57-4db3-a55d-fe96c8181e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-270x338.webp</value>
+      <webElementGuid>673915e3-b172-47fa-9014-d5c944dd9593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>HTC Touch HD</value>
+      <webElementGuid>9dd6889b-ec65-4c7f-b856-4c9fa910f6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(min-width: 1360px) 270px,(min-width: 1024px) 235px,(min-width: 768px) 300px,(min-width: 576px) 300px,200px</value>
+      <webElementGuid>78a874b4-a011-4dc7-be3c-18d045cca950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-235x294.webp 235w,https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-300x375.webp 300w,https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-200x250.webp 200w,https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-270x338.webp 270w</value>
+      <webElementGuid>8255274c-b481-4359-9b43-9a99c42726bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-product-grid-image-28-212408&quot;)/ul[@class=&quot;carousel-indicators&quot;]/li[@class=&quot;active&quot;]/img[@class=&quot;lazy-load img-thumbnail&quot;]</value>
+      <webElementGuid>9fc0ac5b-616a-4d27-9a4d-9264064c7319</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='mz-product-grid-image-28-212408']/ul/li/img</value>
+      <webElementGuid>8b772c35-15df-478f-9134-1775050f04b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='HTC Touch HD'])[4]</value>
+      <webElementGuid>c646374a-fd0c-4e72-9583-052dbff5fd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/img</value>
+      <webElementGuid>79865df4-1dd0-4926-81f4-ca98992146b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://ecommerce-playground.lambdatest.io/image/cache/catalog/maza/demo/mz_poco/megastore-2/product/1-270x338.webp' and @alt = 'HTC Touch HD']</value>
+      <webElementGuid>29bf132e-63a3-4116-a9b7-0bdc0e5253d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

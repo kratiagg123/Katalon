@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See more</name>
+   <tag></tag>
+   <elementGuidId>20c92e66-a12b-4a51-a1c2-ec0124f62c72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mz-filter-panel-0-1']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mz-filter-panel-0-1 > div.mz-filter-group-content.more > a.mz-see-more.btn-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e0673e1e-080a-4d99-9e20-55f50fe62070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mz-see-more btn-link</value>
+      <webElementGuid>c9b363a0-37a8-4fd4-8a81-0f3640ecf893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>mz-seemore</value>
+      <webElementGuid>561fb054-cd9b-41db-bdbe-a55d6fc5aff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-show</name>
+      <type>Main</type>
+      <value>See more</value>
+      <webElementGuid>0d262341-8ca1-4398-af88-547f8755688a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hide</name>
+      <type>Main</type>
+      <value>See less</value>
+      <webElementGuid>ef39dad5-aa2c-4c67-bd16-22d1a945cc6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5e786668-1f7b-4526-97d5-65dff585a35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See more</value>
+      <webElementGuid>5208fa0f-9941-411a-b6c4-63c2d7a215bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mz-filter-panel-0-1&quot;)/div[@class=&quot;mz-filter-group-content more&quot;]/a[@class=&quot;mz-see-more btn-link&quot;]</value>
+      <webElementGuid>e802c282-c80c-4166-8b0c-76db862f3098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mz-filter-panel-0-1']/div/a</value>
+      <webElementGuid>ac3b4236-73c8-46b2-ad1f-f8a7bfd2fe90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'See more')])[2]</value>
+      <webElementGuid>799b214e-2957-48d7-8c5f-ce84c94e3593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[3]/preceding::a[1]</value>
+      <webElementGuid>c34e91f7-6395-4462-92ae-6cf55cced4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Color'])[2]/preceding::a[2]</value>
+      <webElementGuid>6ab961a2-ebe0-48cf-9d78-764895002d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[32]</value>
+      <webElementGuid>caea5804-22e8-4e47-ade2-1e90f039f0ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/a</value>
+      <webElementGuid>1ea069e2-dcb3-4fee-b7b5-07e4563c153f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'See more' or . = 'See more')]</value>
+      <webElementGuid>172d5f7b-545a-4c05-abff-4a056448f4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
